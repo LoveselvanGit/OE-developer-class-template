@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<templates>
+
+<template name="ClassT" enabled="true" description="Template to create new class" deleted="false" context="com.openedge.pdt.extensibility.new.file.templates" autoinsert="true">
+
+ ${author} </template>
+
+</templates>
